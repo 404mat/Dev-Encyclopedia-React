@@ -15,6 +15,11 @@
     "tag": "serverlessComputing"
   },
   {
+    "name": "Optimistic Locking",
+    "description": "Concurrency control method strategy.",
+    "tag": "optimisticLocking"
+  },
+  {
     "name": "Web Flow",
     "description": "The sequence of user steps on a website.",
     "tag": "webFlow"
@@ -116,8 +121,8 @@
   },
   {
     "name": "Inheritance",
-    "description": "Creating new classes from existing ones, inheriting their properties and",
-    "tag": "behaviors."
+    "description": "Creating new classes from existing ones, inheriting their properties and behaviors.",
+    "tag": "inheritance"
   },
   {
     "name": "Syntax",
@@ -226,7 +231,7 @@
   },
   {
     "name": "Cloud Computing",
-    "description": "Its always fun on the clouds, until it starts \"leaking\"",
+    "description": "It's always fun on the clouds, until it starts \"leaking\"",
     "tag": "cloudComputing"
   },
   {
@@ -236,7 +241,7 @@
   },
   {
     "name": "Quantum Computing",
-    "description": "Sheldon Coopers gonna love this",
+    "description": "Sheldon Cooper's gonna love this",
     "tag": "quantumComputing"
   },
   {
@@ -366,7 +371,7 @@
   },
   {
     "name": "Agile",
-    "description": "A methology in Software Development",
+    "description": "A methodology in Software Development",
     "tag": "agile"
   },
   {
@@ -451,7 +456,7 @@
   },
   {
     "name": "Data Structure",
-    "description": "A way of oragnzing and storing data",
+    "description": "A way of organizing and storing data",
     "tag": "dataStructure"
   },
   {
@@ -461,7 +466,7 @@
   },
   {
     "name": "Recursion Depth",
-    "description": "Used to elaborate on recusrion method",
+    "description": "Used to elaborate on recursion method",
     "tag": "recursionDepth"
   },
   {
@@ -490,8 +495,8 @@
     "tag": "endToEndTest"
   },
   {
-    "name": "Performence Test",
-    "description": "A type of testing focusing on applcation performence",
+    "name": "Performance Test",
+    "description": "A type of testing focusing on application performance",
     "tag": "performanceTest"
   },
   {
@@ -501,7 +506,7 @@
   },
   {
     "name": "Stress Test",
-    "description": "A type of performance testing under pressure",
+    "description": "A type of performance testing under pressure ",
     "tag": "stressTest"
   },
   {
@@ -711,7 +716,7 @@
   },
   {
     "name": "Stateful vs Stateless Systems",
-    "description": "Compare systems that maintain state with those that dont",
+    "description": "Compare systems that maintain state with those that don't",
     "tag": "statefulVsStatelessSystems"
   },
   {
@@ -731,7 +736,7 @@
   },
   {
     "name": "Deadlock",
-    "description": "A stand-off where processes block each others progress",
+    "description": "A stand-off where processes block each other's progress",
     "tag": "deadlock"
   },
   {
@@ -841,8 +846,8 @@
   },
   {
     "name": "Autoencoders",
-    "description": "Learns efficient data representations through compression and",
-    "tag": "reconstruction."
+    "description": "Learns efficient data representations through compression and reconstruction.",
+    "tag": "autoencoders"
   },
   {
     "name": "Reinforcement Learning",
@@ -906,7 +911,7 @@
   },
   {
     "name": "ROC Curve",
-    "description": "Graphical representation of a classifiers performance.",
+    "description": "Graphical representation of a classifier's performance.",
     "tag": "rocCurve"
   },
   {
@@ -931,8 +936,8 @@
   },
   {
     "name": "Cross-Entropy",
-    "description": "Loss function measuring the difference between predicted and actual class",
-    "tag": "labels."
+    "description": "Loss function measuring the difference between predicted and actual class labels.",
+    "tag": "crossEntropy"
   },
   {
     "name": "NoSQL Databases",
@@ -1066,7 +1071,7 @@
   },
   {
     "name": "Data Governance",
-    "description": "Management of datas availability, usability, integrity, and security",
+    "description": "Management of data's availability, usability, integrity, and security",
     "tag": "dataGovernance"
   },
   {
@@ -1111,7 +1116,7 @@
   },
   {
     "name": "Fog Computing",
-    "description": "Extending cloud computing to the edge of an enterprises network",
+    "description": "Extending cloud computing to the edge of an enterprise's network",
     "tag": "fogComputing"
   },
   {
@@ -1133,5 +1138,25 @@
     "name": "DataOps",
     "description": "An agile methodology for developing and maintaining data analytics",
     "tag": "dataOps"
+  },
+  {
+    "name": "Bioinformatics",
+    "description": "Using technology to understand biological data",
+    "tag": "bioinformatics"
+  },
+  {
+    "name": "GDPR",
+    "description": "General Data Protection Regulation ",
+    "tag": "GDPR"
+  },
+  {
+    "name": "symmetric-cryptography",
+    "description": "algorithms for cryptography that use the same cryptographic keys for both the encryption of plaintext.",
+    "tag": "symmetricCryptography"
+  },
+  {
+    "name": "Asymmetric-cryptography",
+    "description": "cryptographic scheme requiring two different keys, one for encryption and the other for decryption.",
+    "tag": "AsymmetricCryptography"
   }
 ]
